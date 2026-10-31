@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UOL Course Catalogue</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_course_detail">Course Detail</string>
+    <string name="email_instructor">Email Instructor</string>
+    <string name="instructor_details">Instructor Details</string>
+    <string name="course_description">Course Description</string>
+    <string name="instructor_format">Instructor: %1$s</string>
+    <string name="email_format">Email: %1$s</string>
+    <string name="credit_hours_format">%1$d Credit Hours</string>
+</resources>
